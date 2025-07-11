@@ -12,7 +12,7 @@ This project performs topic modeling on customer reviews for the **Lenovo K8 sma
   - [1. Data Loading](#1-data-loading)
   - [2. Text Preprocessing](#2-text-preprocessing)
   - [3. Tokenization & Lemmatization](#3-tokenization--lemmatization)
-  - [4. Topic Modeling (LDA) (#4-topic-modeling-lda)
+  - - [4. Topic Modeling (LDA)](#4-topic-modeling-lda)
   - [5. Coherence Score](#5-coherence-score)
   - [6. Topic Visualization](#6-topic-visualization)
 - [Key Results](#key-results)
