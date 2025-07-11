@@ -17,8 +17,6 @@ This project performs topic modeling on customer reviews for the **Lenovo K8 sma
   - [6. Topic Visualization](#6-topic-visualization)
 - [Key Results](#key-results)
 - [Conclusion](#conclusion)
-- [Future Work](#future-work)
-- [How to Run](#how-to-run)
 
 ---
 
